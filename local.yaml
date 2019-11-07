@@ -1,0 +1,10 @@
+from: me@mail.test
+to: someone@mail.test
+carbonCopy: other@mail.test 
+subject: Bills 
+bodyContentType: text/plain
+body: I came from different local than user home directory.
+host: 127.0.0.1
+port: 1025
+user: nil
+password: nil
